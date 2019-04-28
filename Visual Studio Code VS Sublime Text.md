@@ -5,7 +5,7 @@
 Aujourd'hui, je vais fournir une comparaison de deux des éditeurs de texte les plus populaires :
 Visual Studio Code et Sublime Text.
 
-## Visual Studio Code
+## **Sublime Text**
 
 ![VS code](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
 ****
@@ -14,7 +14,7 @@ Linux et macOS.
 
 Il est cross-platform, open source et gratuit.
 
-###**caractéristiques**
+### **caractéristiques**
 
 -Documentation très détaillée
 
@@ -28,7 +28,7 @@ Il est cross-platform, open source et gratuit.
 
 -Fonction "Aller à"
 
-##**Sublime Text**
+## **Sublime Text**
 
 ![Sublime Text](https://docs.platformio.org/en/latest/_images/ide-sublimetext-demo.png)
 ****
@@ -38,7 +38,7 @@ conçu tout d'abord comme une extension pour Vim.
 Il est cross-platform, non open source avec une licence payante même si il existe une version
 gratuite.
 
-###**caractéristiques**
+### **caractéristiques**
 
 -Rapide au lancement
 
