@@ -12,7 +12,9 @@ Visual Studio Code et Sublime Text.
 Visual Studio Code est un éditeur de code extensible développé par Microsoft pour Windows,
 Linux et macOS.
 Il est cross-platform, open source et gratuit.
+
 ###**caractéristiques**
+
 -Documentation très détaillée
 -Éditer du code dans une grande variété de langages de programmation
 -Débogage
