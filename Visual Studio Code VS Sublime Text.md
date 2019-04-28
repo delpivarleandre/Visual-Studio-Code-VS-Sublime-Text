@@ -10,35 +10,34 @@ Visual Studio Code et Sublime Text.
 ![VS code](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
 ****
 Visual Studio Code est un éditeur de code extensible développé par Microsoft pour Windows,
-Linux et macOS.
-
+Linux et macOS.   
 Il est cross-platform, open source et gratuit.
 
 ### **caractéristiques**
 
 -Documentation très détaillée   
--Éditer du code dans une grande variété de langages de programmation
--Débogage
--Points d'arrêt
--Intellisense
--Fonction "Aller à"
+-Éditer du code dans une grande variété de langages de programmation   
+-Débogage   
+-Points d'arrêt   
+-Intellisense   
+-Fonction "Aller à"   
 
 ## **Sublime Text**
 
 ![Sublime Text](https://docs.platformio.org/en/latest/_images/ide-sublimetext-demo.png)
 ****
 Sublime Text est un éditeur de texte disponible sur Windows, Mac et Linux. Le logiciel a été
-conçu tout d'abord comme une extension pour Vim.
+conçu tout d'abord comme une extension pour Vim.   
 Il est cross-platform, non open source avec une licence payante même si il existe une version
 gratuite.
 
 ### **caractéristiques**
 
--Rapide au lancement
--Affichage épuré
--Palette de commande
--La fonction Projets
--Fonction "Aller à"
+-Rapide au lancement   
+-Affichage épuré   
+-Palette de commande   
+-La fonction Projets   
+-Fonction "Aller à"   
 
 # Conclusion
 
