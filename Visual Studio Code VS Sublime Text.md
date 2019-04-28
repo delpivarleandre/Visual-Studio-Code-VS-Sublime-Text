@@ -16,7 +16,7 @@ Il est cross-platform, open source et gratuit.
 
 ### **caractéristiques**
 
--Documentation très détaillée
+-Documentation très détaillée   
 -Éditer du code dans une grande variété de langages de programmation
 -Débogage
 -Points d'arrêt
