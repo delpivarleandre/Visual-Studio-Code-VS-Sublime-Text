@@ -17,15 +17,10 @@ Il est cross-platform, open source et gratuit.
 ### **caractéristiques**
 
 -Documentation très détaillée
-
 -Éditer du code dans une grande variété de langages de programmation
-
 -Débogage
-
 -Points d'arrêt
-
 -Intellisense
-
 -Fonction "Aller à"
 
 ## **Sublime Text**
@@ -34,20 +29,15 @@ Il est cross-platform, open source et gratuit.
 ****
 Sublime Text est un éditeur de texte disponible sur Windows, Mac et Linux. Le logiciel a été
 conçu tout d'abord comme une extension pour Vim.
-
 Il est cross-platform, non open source avec une licence payante même si il existe une version
 gratuite.
 
 ### **caractéristiques**
 
 -Rapide au lancement
-
 -Affichage épuré
-
 -Palette de commande
-
 -La fonction Projets
-
 -Fonction "Aller à"
 
 # Conclusion
