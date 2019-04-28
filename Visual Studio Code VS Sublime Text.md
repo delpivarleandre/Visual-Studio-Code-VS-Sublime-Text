@@ -5,7 +5,7 @@
 Aujourd'hui, je vais fournir une comparaison de deux des éditeurs de texte les plus populaires :
 Visual Studio Code et Sublime Text.
 
-## **Sublime Text**
+## **Visual Studio Code**
 
 ![VS code](https://code.visualstudio.com/opengraphimg/opengraph-home.png)
 ****
